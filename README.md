@@ -4,4 +4,5 @@ Some things I've learned about Sony's excellent AM/FM/HD radio tuner XDR-F1HD as
 * [Miscellaneous notes and discoveries](misc.md)
 * [Firmware dump and dumper utility](firmware/)
 * [Internal images of the DSP and IDM modules](internal-images/)
+* [Remote codes (RMT-CF1A) and ESP32 code](misc.md)
 * [Service manual mirror](service.pdf)
